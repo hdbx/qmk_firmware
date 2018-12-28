@@ -1,6 +1,6 @@
 # hdbx
 
-Designed for Japanese Keyboardists using JIS on the Ergo42.
+This keymap is designed for Japanese Keyboardists using JIS on Windows.
 
 ## Layer
 
