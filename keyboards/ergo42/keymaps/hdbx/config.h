@@ -31,6 +31,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MASTER_RIGHT
 // #define EE_HANDS
 
+#define PREVENT_STUCK_MODIFIERS
+#define TAPPING_FORCE_HOLD
+
+/* Tapping term setting */
+#undef TAPPING_TERM
+#define TAPPING_TERM 100
+
 /* Use RGB Underglow */
 
 #undef RGBLED_NUM
